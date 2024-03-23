@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    font-family: monospace;
+    color: white;
+
+}
+
+.container{
+    background-color: coral;
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;
+
+}
+
+.texto-1{
+    padding-top: 10px;
+    font-size: 22px;
+    margin: 0;
+}
+
+.texto-2{
+    font-size: 13px;
+    font-weight: 100;
+}
+
+p{
+    font-size: 9px;
+    padding: 20px;
+    background-color: lightcoral;
+    text-align: justify;
+}
+
+.formularios-1{
+    margin-left: 560px;
+    position: fixed;
+}
